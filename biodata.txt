@@ -1,0 +1,5 @@
+biodata
+
+nama : Abdul Ghofur
+kelas : 4IA26
+npm : 50422057
